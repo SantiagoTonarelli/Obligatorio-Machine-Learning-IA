@@ -5,3 +5,7 @@
 *.pgm
 
 *.npy
+
+*.jpg
+
+*.ini
